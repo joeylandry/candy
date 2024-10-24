@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="products.css" ?>
+<products>
+    <candy>
+        <name>Chocolate Bar</name>
+        <description>Rich and creamy milk chocolate bar</description>
+        <price>2.5</price>
+        <categories>
+            <category>chocolate</category>
+            <category>snack</category>
+        </categories>
+    </candy>
+
+    <candy>
+        <name>Sour Gummies</name>
+        <description>Fruit-flavored sour gummy candies</description>
+        <price>3</price>
+        <categories>
+            <category>gummies</category>
+            <category>snack</category>
+        </categories>
+    </candy>
+
+    <candy>
+        <name>Peanut Butter Cups</name>
+        <description>Chocolate cups filled with peanut butter</description>
+        <price>4</price>
+        <categories>
+            <category>chocolate</category>
+            <category>sweets</category>
+        </categories>
+    </candy>
+
+    <candy>
+        <name>Cotton Candy</name>
+        <description>Fluffy pink cotton candy</description>
+        <price>5</price>
+        <categories>
+            <category>sweets</category>
+            <category>snack</category>
+        </categories>
+    </candy>
+
+    <candy>
+        <name>Caramel Chews</name>
+        <description>Soft and chewy caramel bites</description>
+        <price>3.5</price>
+        <categories>
+            <category>caramel</category>
+            <category>snack</category>
+        </categories>
+    </candy>
+
+    <candy>
+        <name>Licorice Twists</name>
+        <description>Red licorice twists</description>
+        <price>2.8</price>
+        <categories>
+            <category>gummies</category>
+            <category>sweets</category>
+        </categories>
+    </candy>
+
+    <candy>
+        <name>Mint Chocolate</name>
+        <description>Dark chocolate with peppermint flavor</description>
+        <price>4.5</price>
+        <categories>
+            <category>chocolate</category>
+            <category>sweets</category>
+        </categories>
+    </candy>
+
+    <candy>
+        <name>Lollipop</name>
+        <description>Fruit-flavored lollipops</description>
+        <price>1.2</price>
+        <categories>
+            <category>sweets</category>
+            <category>snack</category>
+        </categories>
+    </candy>
+</products>
